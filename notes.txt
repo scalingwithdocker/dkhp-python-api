@@ -1,0 +1,2 @@
+--run
+export PYTHONPATH="`pwd`:$PYTHON_PATH"; python app/test/test.py
