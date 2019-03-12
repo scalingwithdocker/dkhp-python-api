@@ -8,6 +8,11 @@ verify_ssl = true
 [packages]
 falcon = "*"
 gunicorn = "*"
+sqlalchemy = "*"
+psycopg2 = "*"
+falcon-jsonify = "*"
+psycopg2-binary = "*"
+requests = "*"
 
 [requires]
 python_version = "3.6"
