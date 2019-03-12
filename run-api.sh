@@ -1,1 +1,1 @@
-pipenv run gunicorn -b 0.0.0.0:5000 main:api --reload
+pipenv run gunicorn -b 0.0.0.0:5555 main:api --reload
